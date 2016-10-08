@@ -1,0 +1,292 @@
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo2\bin\Debug\Tutorial.exe.config
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\bin\Debug\Tutorial.exe.config
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\bin\Debug\Tutorial.exe
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\bin\Debug\Tutorial.pdb
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\bin\Debug\Mogre.xml
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\obj\x86\Debug\Tutorial.exe
+C:\Users\Assunta\Google Drive Marco\Labs 2014\Demo4\obj\x86\Debug\Tutorial.pdb
+F:\Google Drive\Labs 2014\Demo4\bin\Debug\Tutorial.exe.config
+F:\Google Drive\Labs 2014\Demo4\obj\x86\Debug\Tutorial.exe
+F:\Google Drive\Labs 2014\Demo4\obj\x86\Debug\Tutorial.pdb
+F:\Google Drive\Labs 2014\Demo4\bin\Debug\Tutorial.exe
+F:\Google Drive\Labs 2014\Demo4\bin\Debug\Tutorial.pdb
+F:\Google Drive\Labs 2014\Demo4\bin\Debug\Mogre.xml
+F:\Google Drive\Labs 2014\Demo4\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+N:\STUDY\programming for 3d\lab2\Demo4\bin\Debug\Tutorial.exe.config
+N:\STUDY\programming for 3d\lab2\Demo4\obj\x86\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\lab2\Demo4\obj\x86\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\lab2\Demo4\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+N:\STUDY\programming for 3d\cw\CW framework\bin\Debug\Tutorial.exe.config
+N:\STUDY\programming for 3d\cw\CW framework\obj\x86\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+N:\STUDY\programming for 3d\cw\CW framework\bin\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework\bin\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework\bin\Debug\Mogre.xml
+N:\STUDY\programming for 3d\cw\CW framework\obj\x86\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 09.02.15\bin\Debug\Tutorial.exe.config
+N:\STUDY\programming for 3d\cw\CW framework - 09.02.15\obj\x86\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework - 09.02.15\obj\x86\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 09.02.15\bin\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework - 09.02.15\bin\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 09.02.15\bin\Debug\Mogre.xml
+N:\STUDY\programming for 3d\cw\CW framework - 09.02.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+N:\STUDY\programming for 3d\cw\CW framework - 10.02.15\bin\Debug\Tutorial.exe.config
+N:\STUDY\programming for 3d\cw\CW framework - 10.02.15\obj\x86\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework - 10.02.15\obj\x86\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 10.02.15\bin\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework - 10.02.15\bin\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 10.02.15\bin\Debug\Mogre.xml
+N:\STUDY\programming for 3d\cw\CW framework - 10.02.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+N:\STUDY\programming for 3d\cw\CW framework - 14.02.15\bin\Debug\Tutorial.exe.config
+N:\STUDY\programming for 3d\cw\CW framework - 14.02.15\obj\x86\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework - 14.02.15\bin\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework - 14.02.15\bin\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 14.02.15\bin\Debug\Mogre.xml
+N:\STUDY\programming for 3d\cw\CW framework - 14.02.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+N:\STUDY\programming for 3d\cw\CW framework - 14.02.15\obj\x86\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 17.02.15 - Copy - Copy\bin\Debug\Tutorial.exe.config
+N:\STUDY\programming for 3d\cw\CW framework - 17.02.15 - Copy - Copy\obj\x86\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework - 17.02.15 - Copy - Copy\obj\x86\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 17.02.15 - Copy - Copy\bin\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework - 17.02.15 - Copy - Copy\bin\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 17.02.15 - Copy - Copy\bin\Debug\Mogre.xml
+N:\STUDY\programming for 3d\cw\CW framework - 17.02.15 - Copy - Copy\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+N:\STUDY\programming for 3d\cw\CW framework - 17.02.15\bin\Debug\Tutorial.exe.config
+N:\STUDY\programming for 3d\cw\CW framework - 17.02.15\obj\x86\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework - 17.02.15\obj\x86\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 17.02.15\bin\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework - 17.02.15\bin\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 17.02.15\bin\Debug\Mogre.xml
+N:\STUDY\programming for 3d\cw\CW framework - 17.02.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+N:\STUDY\programming for 3d\cw\CW framework - 24.02.15\bin\Debug\Tutorial.exe.config
+N:\STUDY\programming for 3d\cw\CW framework - 24.02.15\obj\x86\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework - 24.02.15\obj\x86\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 24.02.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+N:\STUDY\programming for 3d\cw\CW framework - 24.02.15\bin\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework - 24.02.15\bin\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 24.02.15\bin\Debug\Mogre.xml
+N:\STUDY\programming for 3d\cw\CW framework - 09.03.15\bin\Debug\Tutorial.exe.config
+N:\STUDY\programming for 3d\cw\CW framework - 09.03.15\obj\x86\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework - 09.03.15\obj\x86\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 09.03.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+N:\STUDY\programming for 3d\cw\CW framework - 09.03.15\bin\Debug\Tutorial.exe
+N:\STUDY\programming for 3d\cw\CW framework - 09.03.15\bin\Debug\Tutorial.pdb
+N:\STUDY\programming for 3d\cw\CW framework - 09.03.15\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 09.03.15\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 09.03.15\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 09.03.15\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 09.03.15\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 09.03.15\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 09.03.15\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 09.03.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Downloads\CW framework - 11.03.15 - environment\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 11.03.15 - environment\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 11.03.15 - environment\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 11.03.15 - environment\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 11.03.15 - environment\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 11.03.15 - environment\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 11.03.15 - environment\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Downloads\CW framework - 15.03.15\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 15.03.15\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 15.03.15\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 15.03.15\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 15.03.15\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 15.03.15\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 15.03.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Downloads\CW framework - 17.03.15\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 17.03.15\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 17.03.15\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 17.03.15\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 17.03.15\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 17.03.15\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 17.03.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Downloads\CW framework - 22.03.15\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 22.03.15\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 22.03.15\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 22.03.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Downloads\CW framework - 22.03.15\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 22.03.15\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 22.03.15\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 23.03.15\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 23.03.15\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 23.03.15\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 23.03.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Downloads\CW framework - 23.03.15\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 23.03.15\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 23.03.15\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 24.03.15\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 24.03.15\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 24.03.15\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 24.03.15\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 24.03.15\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 24.03.15\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 24.03.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Downloads\CW framework - 24.03.15 - v2\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 24.03.15 - v2\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 24.03.15 - v2\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 24.03.15 - v2\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 24.03.15 - v2\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 24.03.15 - v2\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 24.03.15 - v2\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Downloads\CW framework - 25.03.15\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 25.03.15\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 25.03.15\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 25.03.15\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 25.03.15\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 25.03.15\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 25.03.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Downloads\CW framework - 25.03.15 -v2\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 25.03.15 -v2\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 25.03.15 -v2\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Downloads\CW framework - 25.03.15 -v2\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 25.03.15 -v2\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 25.03.15 -v2\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 25.03.15 -v2\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 30.03.15\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 30.03.15\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 30.03.15\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 30.03.15\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 30.03.15\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 30.03.15\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 30.03.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Downloads\CW framework - 31.03.15\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 31.03.15\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 31.03.15\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 31.03.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Downloads\CW framework - 31.03.15\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 31.03.15\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 31.03.15\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 01.04.15\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 01.04.15\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 01.04.15\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 01.04.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Downloads\CW framework - 01.04.15\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 01.04.15\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 01.04.15\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 09.04.15\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 09.04.15\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 09.04.15\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 09.04.15\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 09.04.15\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 09.04.15\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 09.04.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Downloads\CW framework - 10.04.15\bin\Debug\Tutorial.exe.config
+C:\Users\Tina\Downloads\CW framework - 10.04.15\obj\x86\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 10.04.15\obj\x86\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 10.04.15\bin\Debug\Tutorial.exe
+C:\Users\Tina\Downloads\CW framework - 10.04.15\bin\Debug\Tutorial.pdb
+C:\Users\Tina\Downloads\CW framework - 10.04.15\bin\Debug\Mogre.xml
+C:\Users\Tina\Downloads\CW framework - 10.04.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15\bin\Debug\Tutorial.exe.config
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15\obj\x86\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15\obj\x86\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15\bin\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15\bin\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15\bin\Debug\Mogre.xml
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15 (level system half done, enemy moving randomly)\CW framework - 11.04.15\bin\Debug\Tutorial.exe.config
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15 (level system half done, enemy moving randomly)\CW framework - 11.04.15\obj\x86\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15 (level system half done, enemy moving randomly)\CW framework - 11.04.15\obj\x86\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15 (level system half done, enemy moving randomly)\CW framework - 11.04.15\bin\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15 (level system half done, enemy moving randomly)\CW framework - 11.04.15\bin\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15 (level system half done, enemy moving randomly)\CW framework - 11.04.15\bin\Debug\Mogre.xml
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15 (level system half done, enemy moving randomly)\CW framework - 11.04.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15  - v4\CW framework - 11.04.15\bin\Debug\Tutorial.exe.config
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15  - v4\CW framework - 11.04.15\obj\x86\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15  - v4\CW framework - 11.04.15\obj\x86\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15  - v4\CW framework - 11.04.15\bin\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15  - v4\CW framework - 11.04.15\bin\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15  - v4\CW framework - 11.04.15\bin\Debug\Mogre.xml
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 11.04.15  - v4\CW framework - 11.04.15\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v1\bin\Debug\Tutorial.exe.config
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v1\obj\x86\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v1\obj\x86\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v1\bin\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v1\bin\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v1\bin\Debug\Mogre.xml
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v1\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v2\bin\Debug\Tutorial.exe.config
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v2\obj\x86\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v2\obj\x86\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v2\bin\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v2\bin\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v2\bin\Debug\Mogre.xml
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v2\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v3\bin\Debug\Tutorial.exe.config
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v3\obj\x86\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v3\obj\x86\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v3\bin\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v3\bin\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v3\bin\Debug\Mogre.xml
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v3\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v3 - new level system\bin\Debug\Tutorial.exe.config
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v3 - new level system\obj\x86\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v3 - new level system\obj\x86\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v3 - new level system\bin\Debug\Tutorial.exe
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v3 - new level system\bin\Debug\Tutorial.pdb
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v3 - new level system\bin\Debug\Mogre.xml
+\\smbhome.uscs.susx.ac.uk\yw221\Downloads\CW framework - 12.04.15 v3 - new level system\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\CW framework - 12.04.15 v4\bin\Debug\Tutorial.exe.config
+C:\CW framework - 12.04.15 v4\obj\x86\Debug\Tutorial.exe
+C:\CW framework - 12.04.15 v4\obj\x86\Debug\Tutorial.pdb
+C:\CW framework - 12.04.15 v4\bin\Debug\Tutorial.exe
+C:\CW framework - 12.04.15 v4\bin\Debug\Tutorial.pdb
+C:\CW framework - 12.04.15 v4\bin\Debug\Mogre.xml
+C:\CW framework - 12.04.15 v4\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\CW framework - 12.04.15 v4 - change gun finished\bin\Debug\Tutorial.exe.config
+C:\CW framework - 12.04.15 v4 - change gun finished\obj\x86\Debug\Tutorial.exe
+C:\CW framework - 12.04.15 v4 - change gun finished\obj\x86\Debug\Tutorial.pdb
+C:\CW framework - 12.04.15 v4 - change gun finished\bin\Debug\Tutorial.exe
+C:\CW framework - 12.04.15 v4 - change gun finished\bin\Debug\Tutorial.pdb
+C:\CW framework - 12.04.15 v4 - change gun finished\bin\Debug\Mogre.xml
+C:\CW framework - 12.04.15 v4 - change gun finished\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\CW framework - 13.04.15 v1\bin\Debug\Tutorial.exe.config
+C:\CW framework - 13.04.15 v1\obj\x86\Debug\Tutorial.exe
+C:\CW framework - 13.04.15 v1\obj\x86\Debug\Tutorial.pdb
+C:\CW framework - 13.04.15 v1\bin\Debug\Tutorial.exe
+C:\CW framework - 13.04.15 v1\bin\Debug\Tutorial.pdb
+C:\CW framework - 13.04.15 v1\bin\Debug\Mogre.xml
+C:\CW framework - 13.04.15 v1\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\CW framework - 13.04.15 v2\bin\Debug\Tutorial.exe.config
+C:\CW framework - 13.04.15 v2\obj\x86\Debug\Tutorial.exe
+C:\CW framework - 13.04.15 v2\obj\x86\Debug\Tutorial.pdb
+C:\CW framework - 13.04.15 v2\bin\Debug\Tutorial.exe
+C:\CW framework - 13.04.15 v2\bin\Debug\Tutorial.pdb
+C:\CW framework - 13.04.15 v2\bin\Debug\Mogre.xml
+C:\CW framework - 13.04.15 v2\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\CW framework - 13.04.15 v3 - try vertex\bin\Debug\Tutorial.exe.config
+C:\CW framework - 13.04.15 v3 - try vertex\obj\x86\Debug\Tutorial.exe
+C:\CW framework - 13.04.15 v3 - try vertex\obj\x86\Debug\Tutorial.pdb
+C:\CW framework - 13.04.15 v3 - try vertex\bin\Debug\Tutorial.exe
+C:\CW framework - 13.04.15 v3 - try vertex\bin\Debug\Tutorial.pdb
+C:\CW framework - 13.04.15 v3 - try vertex\bin\Debug\Mogre.xml
+C:\CW framework - 13.04.15 v3 - try vertex\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\CW framework - 13.04.15 v3 - VETEX SHADER WATER DONE\bin\Debug\Tutorial.exe.config
+C:\CW framework - 13.04.15 v3 - VETEX SHADER WATER DONE\obj\x86\Debug\Tutorial.exe
+C:\CW framework - 13.04.15 v3 - VETEX SHADER WATER DONE\obj\x86\Debug\Tutorial.pdb
+C:\CW framework - 13.04.15 v3 - VETEX SHADER WATER DONE\bin\Debug\Tutorial.exe
+C:\CW framework - 13.04.15 v3 - VETEX SHADER WATER DONE\bin\Debug\Tutorial.pdb
+C:\CW framework - 13.04.15 v3 - VETEX SHADER WATER DONE\bin\Debug\Mogre.xml
+C:\CW framework - 13.04.15 v3 - VETEX SHADER WATER DONE\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\CW framework - 15.04.15 v1\bin\Debug\Tutorial.exe.config
+C:\CW framework - 15.04.15 v1\obj\x86\Debug\Tutorial.exe
+C:\CW framework - 15.04.15 v1\obj\x86\Debug\Tutorial.pdb
+C:\CW framework - 15.04.15 v1\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\CW framework - 15.04.15 v1\bin\Debug\Tutorial.exe
+C:\CW framework - 15.04.15 v1\bin\Debug\Tutorial.pdb
+C:\CW framework - 15.04.15 v1\bin\Debug\Mogre.xml
+C:\CW framework - 15.04.15 v3\bin\Debug\Tutorial.exe.config
+C:\CW framework - 15.04.15 v3\obj\x86\Debug\Tutorial.exe
+C:\CW framework - 15.04.15 v3\obj\x86\Debug\Tutorial.pdb
+C:\CW framework - 15.04.15 v3\bin\Debug\Tutorial.exe
+C:\CW framework - 15.04.15 v3\bin\Debug\Tutorial.pdb
+C:\CW framework - 15.04.15 v3\bin\Debug\Mogre.xml
+C:\CW framework - 15.04.15 v3\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\CW framework - 15.04.15 v4 - finished i think!\bin\Debug\Tutorial.exe.config
+C:\CW framework - 15.04.15 v4 - finished i think!\obj\x86\Debug\Tutorial.exe
+C:\CW framework - 15.04.15 v4 - finished i think!\obj\x86\Debug\Tutorial.pdb
+C:\CW framework - 15.04.15 v4 - finished i think!\bin\Debug\Tutorial.exe
+C:\CW framework - 15.04.15 v4 - finished i think!\bin\Debug\Tutorial.pdb
+C:\CW framework - 15.04.15 v4 - finished i think!\bin\Debug\Mogre.xml
+C:\CW framework - 15.04.15 v4 - finished i think!\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\CW framework - 15.04.15 v4 - finished i think!\bin\Debug\Tutorial.exe.config
+C:\CW framework - 15.04.15 v4 - finished i think!\obj\x86\Debug\Tutorial.exe
+C:\CW framework - 15.04.15 v4 - finished i think!\obj\x86\Debug\Tutorial.pdb
+C:\CW framework - 15.04.15 v4 - finished i think!\bin\Debug\Tutorial.exe
+C:\CW framework - 15.04.15 v4 - finished i think!\bin\Debug\Tutorial.pdb
+C:\CW framework - 15.04.15 v4 - finished i think!\bin\Debug\Mogre.xml
+C:\CW framework - 15.04.15 v4 - finished i think!\obj\x86\Debug\the Gem Battle.csprojResolveAssemblyReference.cache

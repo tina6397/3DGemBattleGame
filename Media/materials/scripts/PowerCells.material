@@ -1,0 +1,31 @@
+material Cell
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0.4 1 1
+			diffuse 0 0.4 1 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Plugs
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.0901961 0.0901961 0.0901961 1
+			diffuse 0.0901961 0.0901961 0.0901961 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}

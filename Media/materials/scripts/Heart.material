@@ -1,0 +1,44 @@
+material Heart
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture RedGradient.png
+			}
+		}
+	}
+}
+
+material HeartHMD
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			texture_unit
+			{
+				texture RedGradient.png
+			}
+		}
+	}
+}
+
+material HeartBlueHMD
+{
+	technique
+	{
+		pass
+		{
+			lighting off
+			texture_unit
+			{
+				texture BlueGradient.png
+			}
+		}
+	}
+}
+

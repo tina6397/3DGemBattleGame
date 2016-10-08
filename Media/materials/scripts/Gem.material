@@ -1,0 +1,47 @@
+material 10-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 1 1
+			diffuse 0 0 1 1
+			specular 0 0 0 1 10
+
+
+		}
+
+	}
+
+}
+
+
+
+material red
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture PinkGradient.png
+			}
+		}
+	}
+}
+
+
+material green
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture GreenGradient.png
+			}
+		}
+	}
+}

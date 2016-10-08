@@ -1,0 +1,65 @@
+material Burner
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 1 0 1
+			diffuse 1 1 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Black
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material Hull
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.360784 0 0.768628 1
+			diffuse 0.360784 0 0.768628 1
+			specular 0.549 0.549 0.549 1 47
+		}
+
+	}
+
+}
+
+
+
+material Glass
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0.929412 0.807843 1
+			diffuse 0 0.929412 0.807843 1
+			specular 0.585 0.585 0.585 1 13
+		}
+
+	}
+
+}

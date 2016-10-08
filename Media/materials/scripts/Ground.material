@@ -1,0 +1,13 @@
+material Ground
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture Dirt.jpg
+			}
+		}
+	}
+}

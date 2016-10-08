@@ -1,0 +1,38 @@
+vertex_program VSExampleW hlsl
+{
+	source VSExW.hlsl
+	entry_point main
+	target vs_1_1
+}
+
+fragment_program FSExampleW hlsl
+{
+	source FSExW.hlsl
+	entry_point main
+	target ps_2_0
+}
+
+material VFShaderExampleW
+{
+	technique
+	{
+		pass
+		{
+			vertex_program_ref VSExampleW
+			{
+				param_named_auto worldViewProj worldviewproj_matrix
+				param_named_auto t time
+			}
+
+			fragment_program_ref FSExampleW
+			{
+			}
+
+			texture_unit
+			{
+				texture water.jpg
+			}
+		}
+		
+	}
+}

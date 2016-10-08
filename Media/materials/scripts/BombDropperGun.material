@@ -1,0 +1,31 @@
+material Black
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+
+
+material BombDropper
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.117647 1 0 1
+			diffuse 0.117647 1 0 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}

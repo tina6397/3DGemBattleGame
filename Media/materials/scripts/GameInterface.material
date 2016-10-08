@@ -1,0 +1,27 @@
+material GameInterface/HealthBar
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture RedGradient.png
+			}
+		}
+	}
+}
+
+material GameInterface/ShieldBar
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture BlueGradient.png
+			}
+		}
+	}
+}

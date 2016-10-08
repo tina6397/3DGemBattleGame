@@ -1,0 +1,52 @@
+fragment_program FSExample hlsl
+{
+	source FSEx.hlsl
+	entry_point main
+	target ps_3_0
+}
+
+vertex_program VSExample hlsl
+{
+	source VSEx.hlsl
+	entry_point main
+	target vs_3_0
+}
+
+material VFShaderExample
+{
+	technique
+	{
+		pass
+		{
+			vertex_program_ref VSExample
+			{
+				param_named_auto worldViewProj worldviewproj_matrix
+				param_named_auto t time
+			}
+
+			fragment_program_ref FSExample
+			{
+				param_named_auto l light_direction 0
+				param_named_auto invTexSizes inverse_texture_size 0
+			}
+
+			texture_unit
+			{
+				//Sends the texture to the vertex shader
+				binding_type vertex		
+				texture terrain.png
+			}
+			
+			// The following textures are sent to the fragment shader by default
+			texture_unit
+			{
+				texture terrain.png
+			}
+
+			texture_unit
+			{
+				texture terr_dirt-grass.jpg
+			}
+		}
+	}
+}
